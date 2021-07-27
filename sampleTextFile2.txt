@@ -1,3 +1,4 @@
 This is a sample text file, text is ok.
 updating file 2
 code changes
+new code changes.
